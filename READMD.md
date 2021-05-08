@@ -11,6 +11,15 @@
 
 `truffle unbox react`  
 
+### Truffle Develop
+
+`truffle develop`  
+`migrate`  
+
+Open new terminal  
+`cd client`
+`npm start`  
+
 ### Reference
 
 [Ethereum Dapp Tutorial — Push Button](https://medium.com/taipei-ethereum-meetup/ethereum-dapp-tutorial-push-button-cae3810086a4)  
