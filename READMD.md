@@ -1,4 +1,6 @@
-# Try truffle
+# Try truffle - vote
+
+![vote](pictures/vote.PNG)  
 
 ## Development
 
@@ -17,8 +19,8 @@
 `migrate`  
 
 Open new terminal  
-`cd client`
-`npm start`  
+`cd client`  
+`yarn start`  
 
 ### Reference
 
